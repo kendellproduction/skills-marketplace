@@ -1,0 +1,40 @@
+{
+  "nate-herk": {
+    "name": "Nate Herk",
+    "handle": "@nateherk",
+    "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA",
+    "expect_per_week": "4-7 uploads, nearly all substantive standalone videos",
+    "note": "Descriptions are heavy with affiliate/funnel links; real substance is usually 2-3 paragraphs below the promo block."
+  },
+  "matt-wolfe": {
+    "name": "Matt Wolfe",
+    "handle": "@mreflow",
+    "channel_id": "UChpleBmo18P08aKCIgti38g",
+    "expect_per_week": "5-7 uploads; the 'AI News:' roundup is the flagship",
+    "flagship_title_regex": "^AI News:",
+    "note": "Titles starting '#ad' are sponsored. Weight comparative tests over single-tool praise."
+  },
+  "nate-b-jones": {
+    "name": "Nate B Jones",
+    "handle": "@natebjones",
+    "channel_id": "UC0C-17n9iuUQPylguM1d-lQ",
+    "expect_per_week": "~14 uploads, but roughly half are shorts",
+    "clip_title_regex": "#\\w+\\s*#\\w+",
+    "note": "Shorts are hashtag-stuffed in the title. The long videos are where the actual argument lives."
+  },
+  "all-in": {
+    "name": "All-In Podcast",
+    "handle": "@allin",
+    "channel_id": "UCESLZhusAkFfsNsApnjF_Cg",
+    "expect_per_week": "1 flagship episode + 6-10 clips cut from that same episode",
+    "clip_title_regex": "^(Chamath|Jason|Jason Calacanis|Calacanis|Sacks|David Sacks|Friedberg|David Friedberg|[A-Z][a-z]+ [A-Z][a-z]+)\\s*:",
+    "note": "CLIPS ARE REDUNDANT with the flagship - they are excerpts of it, not new content. Take the flagship (the long multi-topic title) and drop the clips. If clips are useful at all, it is only as a signal of which segments the editors thought mattered most."
+  },
+  "tom-bilyeu": {
+    "name": "Tom Bilyeu",
+    "handle": "@TomBilyeu",
+    "channel_id": "UCnYMOamNKLGVlJgRUbamveA",
+    "expect_per_week": "5-6 uploads, mostly daily macro reaction",
+    "note": "Titles are engineered for alarm; the reasoning inside is more measured. Most days are reaction content with low durable value - be selective."
+  }
+}

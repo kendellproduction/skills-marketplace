@@ -1,3 +1,20 @@
 .DS_Store
 node_modules/
-**pycache**/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.local
+
+# Private context and council data — never commit.
+# The real profile lives at ~/.claude/council-data/, outside this repo, but this
+# is a second line of defence in case anything gets copied in by accident.
+council-data/
+context/profile.md
+**/profile.md
+!**/context-profile.template.md
+notes/
+sessions/
+backlog.md
+seen_videos.json
