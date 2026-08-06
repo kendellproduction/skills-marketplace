@@ -1,0 +1,9 @@
+{
+  "name": "lake-salt-comms",
+  "version": "0.4.0",
+  "description": "Headless/Codex-compatible communication agent for Lake Salt — processes email inquiries, manages quote intake, updates the CRM, and optionally blocks the calendar on confirmed events.",
+  "author": {
+    "name": "Kendell"
+  },
+  "keywords": ["lake-salt", "events", "bartending", "communications", "crm"]
+}

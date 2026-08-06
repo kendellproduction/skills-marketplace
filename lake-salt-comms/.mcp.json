@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "zapier": {
+      "type": "http",
+      "url": "https://mcp.zapier.com/api/mcp/s/ZTdhMzAxOWEtZmUyNi00MTkzLTg0NTMtZmM5MTY1NjRjMDU0OmdvdmtIRkZMY2FoV2tMZXl3SlQ4SStpTklUUUw4a0l2bHUzR2FicVRoQkE9/mcp"
+    }
+  }
+}
