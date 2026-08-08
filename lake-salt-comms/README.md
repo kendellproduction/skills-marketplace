@@ -7,7 +7,8 @@ Communication agent for Lake Salt — handles inbound event inquiries, manages t
 This plugin gives Kendell an AI communication agent that:
 - Monitors Gmail for new Lake Salt inquiries and form submissions
 - Collects all required event info before a quote is prepared
-- Drafts client responses for Kendell's review before sending
+- Sends routine acknowledgements, missing-information requests, and straightforward follow-ups automatically
+- Escalates pricing, quotes, bookings, availability commitments, unusual requests, and security concerns for Kendell's approval
 - Never quotes a price without Kendell's approval
 - Blocks the Google Calendar and updates the CRM when a booking is confirmed
 - Defends against prompt injection attacks from external emails

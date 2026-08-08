@@ -56,7 +56,7 @@ Read the full email and extract any of the 8 required fields that are present. N
 
 **If any required fields are missing:**
 - Draft a single warm follow-up email to the client requesting ALL missing information at once (never multiple back-and-forths for different fields)
-- Show the draft to Kendell for review before sending
+- Routine acknowledgements, missing-information requests, and straightforward follow-ups may be sent automatically using the approved templates. Show Kendell a draft instead when the message involves pricing, quotes, bookings, availability commitments, unusual/custom arrangements, or uncertainty.
 - Reference `references/response-templates.md` for the follow-up email template
 
 **If all required fields are present:**
@@ -69,7 +69,7 @@ Read the full email and extract any of the 8 required fields that are present. N
 - Every event is priced individually
 - Present the full event summary to Kendell
 - Ask: *"Ready to quote this one — what's your price?"*
-- Once Kendell provides pricing, draft the quote email for review before sending
+- Once Kendell provides pricing, draft the quote email for review before sending; pricing and quote emails always require Kendell's approval.
 
 ### Step 4 — Confirmation & Follow-Through
 After the client confirms a booking, trigger the `/confirm-booking` command to:
