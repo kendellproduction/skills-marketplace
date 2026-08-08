@@ -2,6 +2,10 @@
 
 Use these as starting points. Always personalize with the client's name and event details before sending.
 
+## Formatting for platform-delivered email
+
+Client replies are sent through Gmail and may be rendered inside a lead platform that collapses ordinary blank lines. Keep messages in short paragraphs of one to three sentences. When sending HTML, use explicit `<p>...</p>` blocks with a plain-text fallback; do not rely on repeated spaces or Markdown blockquotes to create visual separation. Avoid dense walls of text and keep lists short.
+
 ---
 
 ## 1. Follow-Up: Missing Information
