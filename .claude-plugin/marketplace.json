@@ -1,0 +1,8 @@
+{
+  "name": "skills-marketplace",
+  "description": "Kendell's skills marketplace",
+  "owner": { "name": "Kendell Andrews", "url": "https://github.com/kendellproduction" },
+  "plugins": [
+    { "name": "kendell-skills", "description": "Kendell's skills", "source": "./" }
+  ]
+}
