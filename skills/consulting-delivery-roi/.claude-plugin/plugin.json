@@ -1,0 +1,14 @@
+{
+  "name": "consulting-delivery-roi",
+  "version": "1.0.0",
+  "description": "Find high-ROI AI automation opportunities and guide safe consulting delivery.",
+  "author": {
+    "name": "Kendell Andrews"
+  },
+  "keywords": [
+    "consulting",
+    "roi",
+    "automation",
+    "workflow"
+  ]
+}
