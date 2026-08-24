@@ -19,6 +19,12 @@ Turn raw notes, project memories, screenshots, links, and conversations into rec
 - Public-safe case study wording
 - Skills demonstrated and target-role mappings
 
+## Adobe-to-portfolio handoff
+
+This skill can receive only Adobe evidence already marked **safe to share** or **sanitized** by the Adobe Career Evidence skill. Convert it into high-level portfolio language without internal names, customer data, screenshots, source code, nonpublic metrics, or strategy.
+
+Preserve the truth of the accomplishment while framing the capability: enterprise AI enablement, workflow automation, cross-functional technical leadership, governance-aware delivery, or adoption at organizational scale. If disclosure is uncertain, keep the item out of public materials and flag it for review.
+
 ## Prepare
 
 Map evidence to AI Solutions Architect, Solutions Architect, Technical Solutions Architect, Automation Architect, AI Automation Lead, Implementation Architect, Technical Consultant, Customer Engineer, and Applied AI Consultant roles. Separate skill gaps from evidence gaps.
