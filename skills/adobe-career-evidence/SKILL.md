@@ -22,6 +22,12 @@ For each initiative, record:
 
 Never place Adobe source code, customer data, internal names, screenshots, metrics, or nonpublic strategy into public resumes, portfolios, freelance material, or marketplace files.
 
+## Portfolio-release record
+
+For each strong initiative, prepare a separate **public-safe summary** only when the user confirms the disclosure level permits it. Include the transferable capability, high-level business outcome, the user's ownership, and a safe scale description; explicitly list forbidden details.
+
+The Personal Career Evidence skill may use only this approved summary. Keep the full internal record here.
+
 ## Career framing
 
 Map evidence to AI Solutions Architect, Technical Solutions Architect, Automation Architect, AI Automation Lead, Implementation Architect, Technical Consultant, Customer Engineer, and internal AI architect opportunities. Create promotion narratives, role-creation proposals, performance-review evidence, resume bullets, and interview stories only from supported facts.
