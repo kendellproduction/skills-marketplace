@@ -1,0 +1,13 @@
+{
+  "name": "council",
+  "version": "1.0.0",
+  "description": "Convene advisor personas to pressure-test decisions, plans, and opportunities.",
+  "author": {
+    "name": "Kendell Andrews"
+  },
+  "keywords": [
+    "decision-making",
+    "strategy",
+    "advisors"
+  ]
+}
