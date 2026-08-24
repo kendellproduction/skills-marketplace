@@ -1,0 +1,14 @@
+{
+  "name": "personal-career-evidence",
+  "version": "1.0.0",
+  "description": "Capture public-safe personal project evidence and turn it into portfolio, resume, and interview proof.",
+  "author": {
+    "name": "Kendell Andrews"
+  },
+  "keywords": [
+    "career",
+    "portfolio",
+    "ai-consulting",
+    "resume"
+  ]
+}
