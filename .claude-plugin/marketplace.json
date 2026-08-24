@@ -1,8 +1,11 @@
 {
   "name": "skills-marketplace",
-  "description": "Kendell's skills marketplace",
+  "description": "Kendell's individually installable Claude skills",
   "owner": { "name": "Kendell Andrews", "url": "https://github.com/kendellproduction" },
   "plugins": [
-    { "name": "kendell-skills", "description": "Kendell's skills", "source": "./" }
+    { "name": "council", "description": "Convene advisor personas to pressure-test decisions and plans.", "source": "./skills/council" },
+    { "name": "personal-career-evidence", "description": "Collect personal and public-safe project evidence for AI consulting and job applications.", "source": "./skills/personal-career-evidence" },
+    { "name": "adobe-career-evidence", "description": "Track confidential Adobe AI, automation, leadership, and promotion evidence.", "source": "./skills/adobe-career-evidence" },
+    { "name": "consulting-delivery-roi", "description": "Analyze client workflows, find high-ROI AI opportunities, and deliver safe pilots.", "source": "./skills/consulting-delivery-roi" }
   ]
 }
