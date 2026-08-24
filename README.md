@@ -20,11 +20,14 @@ Install everything with `./install.sh`, or install one skill with `./install.sh 
 | [personal-career-evidence](skills/personal-career-evidence) | Collect personal and public-safe project evidence for AI consulting and job applications. |
 | [adobe-career-evidence](skills/adobe-career-evidence) | Track confidential Adobe AI, automation, leadership, and promotion evidence. |
 | [consulting-delivery-roi](skills/consulting-delivery-roi) | Analyze client workflows, find high-ROI AI opportunities, and deliver safe pilots. |
+| [ai-automation-opportunity-engineer](skills/ai-automation-opportunity-engineer) | Inspect workflows or codebases, debate candidates, and rank the best AI automation opportunity. |
 
 Each skill is a separate marketplace entry and can be installed independently.
 
 ## Design rules
 
 Skills are generic. Personal, Adobe, and client-specific context belongs outside this repository. Never commit confidential Adobe data, customer data, credentials, or private business records.
+
+Adobe evidence begins in `adobe-career-evidence`. Only approved, sanitized summaries move to `personal-career-evidence` for use in a public portfolio, résumé, Upwork profile, or case study.
 
 Each skill directory contains a required `SKILL.md` with frontmatter `name` and `description`.
