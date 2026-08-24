@@ -1,0 +1,15 @@
+{
+  "name": "ai-automation-opportunity-engineer",
+  "version": "1.0.0",
+  "description": "Discover, debate, and rank the highest-ROI AI automation opportunity in a workflow or codebase.",
+  "author": {
+    "name": "Kendell Andrews"
+  },
+  "keywords": [
+    "ai",
+    "automation",
+    "roi",
+    "workflow",
+    "opportunity"
+  ]
+}
