@@ -7,6 +7,7 @@
     { "name": "personal-career-evidence", "description": "Collect personal and public-safe project evidence for AI consulting and job applications.", "source": "./skills/personal-career-evidence" },
     { "name": "adobe-career-evidence", "description": "Track confidential Adobe AI, automation, leadership, and promotion evidence.", "source": "./skills/adobe-career-evidence" },
     { "name": "consulting-delivery-roi", "description": "Analyze client workflows, find high-ROI AI opportunities, and deliver safe pilots.", "source": "./skills/consulting-delivery-roi" },
-    { "name": "ai-automation-opportunity-engineer", "description": "Discover, debate, and rank the highest-ROI AI automation opportunity.", "source": "./skills/ai-automation-opportunity-engineer" }
+    { "name": "ai-automation-opportunity-engineer", "description": "Discover, debate, and rank the highest-ROI AI automation opportunity.", "source": "./skills/ai-automation-opportunity-engineer" },
+    { "name": "idea-to-plan", "description": "Adaptively interview an idea into a researched, decision-ready plan of attack.", "source": "./skills/idea-to-plan" }
   ]
 }
