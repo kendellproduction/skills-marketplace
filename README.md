@@ -21,6 +21,7 @@ Install everything with `./install.sh`, or install one skill with `./install.sh 
 | [adobe-career-evidence](skills/adobe-career-evidence) | Track confidential Adobe AI, automation, leadership, and promotion evidence. |
 | [consulting-delivery-roi](skills/consulting-delivery-roi) | Analyze client workflows, find high-ROI AI opportunities, and deliver safe pilots. |
 | [ai-automation-opportunity-engineer](skills/ai-automation-opportunity-engineer) | Inspect workflows or codebases, debate candidates, and rank the best AI automation opportunity. |
+| [idea-to-plan](skills/idea-to-plan) | Adaptively interview an idea into a researched, decision-ready plan of attack. |
 
 Each skill is a separate marketplace entry and can be installed independently.
 
